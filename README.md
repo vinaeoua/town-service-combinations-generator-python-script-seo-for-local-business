@@ -31,7 +31,7 @@ For example, with 3 services and 3 towns, you'll get **9 optimized pages** like:
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/static-page-generator.git
+git clone https://github.com/vinaeoua/town-service-combinations-generator-python-script-seo-for-local-business.git
 cd static-page-generator
 ```
 
